@@ -3,6 +3,17 @@ body{
 }
 
 #MyHeader {
+  padding-top: 5px;
   text-align: center;
   font-family: Century Gothic;
+  color: white;
+}
+
+
+.first {
+  text-align: center;
+  padding: 10px 20px 5px 20px;
+  background-color: yellow;
+  align: center;
+
 }
